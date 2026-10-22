@@ -7,4 +7,4 @@ Mathematics and programming, with a proof assistant at hand.
   every start reaches 1, but whether every x > 1 eventually falls below itself.
 - **[rud1](https://github.com/isolution-nl/rud1-lang.org)**: The rud1-language is sound all over, strict where we must, and fast where we can.
 
-Netherlands · [ISOLUTION B.V.](https://github.com/isolution-nl)
+[ISOLUTION B.V.](https://github.com/isolution-nl) - Amsterdam (NL)
